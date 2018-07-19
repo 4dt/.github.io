@@ -1,4 +1,4 @@
-```This is the New Year's Day Calendar program (NydCal.cpp) for CS161 assigned in week 2 as "Assignment 2"
+# This is the New Year's Day Calendar program (NydCal.cpp) for CS161 assigned in week 2 as "Assignment 2"
 This program calculates and displays on which day of the week (displayed as "day n", where n = 0,...,6) the 1st of January in a given year falls. It then outputs a fixed set of dialog sentences with the user's input for those variables.
 Author: Ford Tennis
 Date: 7 July 2018
