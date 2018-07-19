@@ -1,6 +1,8 @@
 # This is the New Year's Day Calendar program (NydCal.cpp) for CS161 assigned in week 2 as "Assignment 2"
-This program calculates and displays on which day of the week (displayed as "day n", where n = 0,...,6) the 1st of January in a given year falls. It then outputs a fixed set of dialog sentences with the user's input for those variables.
+# This program calculates and displays on which day of the week (displayed as "day n", where n = 0,...,6) the 1st of January in a given year fa# lls. It then outputs a fixed set of dialog sentences with the user's input for those variables.
+
 Author: Ford Tennis
+
 Date: 7 July 2018
 Sources: https://www.free-online-calculator-use.com/leap-year-calculator.html (For verification)
 Sources: https://en.wikipedia.org/wiki/Determination_of_the_day_of_the_week
