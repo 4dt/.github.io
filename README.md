@@ -18,6 +18,7 @@ g++ -o main main.cpp
 ```
 
 #### Sample output
-
+`
 What year?: 1978                                                                                                               
 New Year's Day of 1978 fell on day 0 of the week.
+`
