@@ -3,7 +3,8 @@ Author: Ford Tennis
 Date: 7 July 2018
 Sources: https://en.wikipedia.org/wiki/Determination_of_the_day_of_the_week
 Sources: http://berndt-schwerdtfeger.de/wp-content/uploads/pdf/cal.pdf
-Description: For any year entered, displays day of week that Jan 1 occurs.
+Description: For any year entered, displays day of week that Jan 1 occurs, where days are indexed 0-6,
+beginning at Sunday.
 */
 
 #include <iostream>                 
